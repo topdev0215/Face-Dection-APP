@@ -13,5 +13,3 @@ The code is implemented using Python and makes use of libraries such as Streamli
 This project not only demonstrates the capabilities of face landmark detection but also serves as a practical example of integrating computer vision algorithms into user-friendly applications. By sharing this code on GitHub, I aim to contribute to the open-source community and provide a valuable resource for individuals interested in facial landmark detection and MediaPipe.
 
 Please feel free to explore the code repository and contribute to its development. If you have any questions or suggestions, don't hesitate to reach out. Together, we can further enhance the capabilities of this Face Mesh App and advance the field of computer vision.
-
-GitHub Repository: [GitHub](https://github.com/Mr-MeerMoazzam/Face-Mesh-App)
